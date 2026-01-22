@@ -2,7 +2,7 @@
 
 ## 🏗️ Arquitetura do Projeto
 
-![Arquitetura da Previsão de Estoque](images/arquitetura_previsao_estoque.jpg)
+![Arquitetura da Previsão de Estoque](images/arquitetura_previsao_estoque.png)
 
 A imagem acima representa o fluxo de dados e o processo de treinamento do modelo de Machine Learning utilizando o **Amazon SageMaker Canvas**, desde a importação do dataset até a geração das previsões de estoque.
 
@@ -112,5 +112,6 @@ As previsões podem ser exportadas em formato **CSV** para análise adicional.
 ## 👩‍💻 Autora
 **Mirella Wanessa**
 BSc (Honours), Computing and IT
+
 [![LinkedIn](https://img.shields.io/badge/in/mirellawanessa-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/mirellawanessa/)  
 [![Instagram](https://img.shields.io/badge/@myfilearchive-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/myfilearchive)
