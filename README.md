@@ -109,6 +109,8 @@ As previsões podem ser exportadas em formato **CSV** para análise adicional.
 
 ---
 
-### 🤝 Connect with me
+## 👩‍💻 Autora
+**Mirella Wanessa**
+BSc (Honours), Computing and IT
 [![LinkedIn](https://img.shields.io/badge/in/mirellawanessa-fff?style=flat&logo=linkedin&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.linkedin.com/in/mirellawanessa/)  
 [![Instagram](https://img.shields.io/badge/@myfilearchive-fff?style=flat&logo=instagram&logoColor=FFFFFF&labelColor=8b7bdf)](https://www.instagram.com/myfilearchive)
